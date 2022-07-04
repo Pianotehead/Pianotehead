@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pianotehead
 - 👀 I’m interested in programming, religion, and piano playing
-- 🌱 I’m currently learning web development, React, JavaScript, HTML, CSS, C#, ASP.NET, and a lot more!
+- 🌱 I’m a .NET web developer. Skills: React, JavaScript, HTML, CSS, C#, ASP.NET, MySQL, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
